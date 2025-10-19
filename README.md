@@ -9,15 +9,15 @@ This repository has three folders.
 2) Report
 3) Images
 
-1) CODE -
+CODE -
   a) You will be able to view the full Rmd file for the project.
   b) I also have attached the Knitted PDF.
 
-2) Report -
+Report -
   a) This is the final code output and analysis of results in a LaTeX file.
   b) Note: You will be able to view all figures here except for the full heatmap. Please see images to navigate full heatmap.
 
-3) Images -
+Images -
   a) Here I have added all the images that cannot be viewed in the Knitted PDF.
   b) The full heatmap with all samples, the two summary statistic tables.
    
